@@ -28,9 +28,9 @@ Whether you want to manually adjust cooling performance or monitor your Raspberr
 ## Interface Preview
 
 <p align="center">
-  <img src="assets/pi-breeze-preview.png" alt="PiBreeze application interface" width="700"/>
-  <br/>
-  <sub>PiBreeze – Raspberry Pi 5 Cooling Management</sub>
+  <!-- <img src="assets/pi-breeze-preview.png" alt="PiBreeze application interface" width="700"/> -->
+  <!-- <br/> -->
+  <!-- <sub>PiBreeze – Raspberry Pi 5 Cooling Management</sub> -->
   <img width="722" height="957" alt="image" src="https://github.com/user-attachments/assets/9982c2a8-205a-427e-be25-90f54f8c0c33" />
 
 </p>
