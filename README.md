@@ -88,7 +88,7 @@ PiBreeze uses Python's standard library and Tkinter, so additional Python packag
 ### 3. Run the application
 
 ```bash
-python3 main.py
+sudo python3 fanConfig.py
 ```
 
 Depending on your system configuration, elevated permissions may be required for fan control operations.
